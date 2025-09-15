@@ -36,6 +36,6 @@ jobs:
 
       - name: Notify server to pull latest files
         run: |
-          curl -X POST https://ningningding.com/github-webhook \
+          curl -X POST http://178.128.62.49:9000/github-webhook \
                -H "Content-Type: application/json" \
                -d "{\"token\":\"${{ secrets.DEPLOY_TOKEN }}\"}"
