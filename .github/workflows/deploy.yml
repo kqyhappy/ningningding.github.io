@@ -34,3 +34,8 @@ jobs:
           publish_dir: ./_site
           force_orphan: true
 
+      - name: Notify server to pull latest files
+        run: |
+          curl -X POST https://ningningding.com/github-webhook \
+               -H "Content-Type: application/json" \
+               -d "{\"token\":\"${{ secrets.DEPLOY_TOKEN }}\"}"
