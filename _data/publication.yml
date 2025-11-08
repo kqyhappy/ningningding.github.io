@@ -1,13 +1,39 @@
+- title: "FedShard: Federated Unlearning with Efficiency Fairness and Performance Fairness"
+  authors: "S. Wen, M. Zhang, Y. Yang, and **N. Ding***"
+  description: "AAAI Conference on Artificial Intelligence (AAAI), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(Acceptance rate 17.6%, CCF A)</span>"
+  type: conference
+  links:
+
+- title: "Beyond Binary Erasure: Soft-Weighted Unlearning to Improve Fairness and Robustness"
+  authors: "X. Qiao, **N. Ding**, Y. Cheng, and M. Zhang"
+  description: "AAAI Conference on Artificial Intelligence (AAAI), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(Acceptance rate 17.6%, CCF A)</span>"
+  type: conference
+  links:
+
+- title: "Trading Vector Data in Vector Databases"
+  authors: "J. Cheng, X. Dai, **N. Ding**, J. C.S. Lui, and J. Huang"
+  description: "IEEE International Conference on Data Engineering (ICDE), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(CCF A)</span>"
+  type: conference
+  links:
+
+
 - title: "AoI-aware Federated Unlearning for Streaming Data with Online Client Selection and Pricing"
   authors: "Y. Cui, **N. Ding***, and M. Cheung"
   description: "IEEE International Conference on Computer Communications (INFOCOM), 2025. <span style=\"color:#3a5581; font-weight:bold;\">(Acceptance rate 18.7%, CCF A)</span>"
   type: conference
   links:
 
+- title: "Trading Continuous Queries"
+  authors: "J. Cheng, **N. Ding**, J. C.S. Lui, and J. Huang"
+  description: "IEEE Transactions on Mobile Computing (TMC), 2025. <span style=\"color:#3a5581; font-weight:bold;\">(CCF A, JCR Q1)</span>" 
+  type: journal
+  links:
+  
 - title: "COTRA: A Data Trading Framework for Multi-source Data Cooperation"
   authors: "J. Cheng, **N. Ding**, J. C.S. Lui, and J. Huang"
   description: "IEEE Transactions on Mobile Computing (TMC), 2025. <span style=\"color:#3a5581; font-weight:bold;\">(CCF A, JCR Q1)</span>"
   type: journal
+  links: "https://ieeexplore.ieee.org/document/11104935"
 
 - title: "Incentivized Federated Learning and Unlearning"
   authors: "**N. Ding**, Z. Sun, E. Wei, and R. Berry"
