@@ -1,3 +1,9 @@
+- title: "BANCO: Drift-Aware Batched Bandits for Adaptive Proximity-Graph Pruning"
+  authors: "J. Cheng, X. Dai, **N. Ding**, J. C.S. Lui, and J. Huang"
+  description: "ACM Web Conference (WWW), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(CCF A)</span>"
+  type: conference
+  links:
+
 - title: "FedShard: Federated Unlearning with Efficiency Fairness and Performance Fairness"
   authors: "S. Wen, M. Zhang, Y. Yang, and **N. Ding***"
   description: "AAAI Conference on Artificial Intelligence (AAAI), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(Acceptance rate 17.6%, CCF A)</span>"

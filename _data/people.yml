@@ -10,10 +10,6 @@
   avatar: /assets/avatars/siyuanwen_1.jpg
   cdnavatar: https://ooo.0x0.ooo/2025/07/28/OY2VhI.jpg
   category: PhD
-- name: Chenyu Lu
-  avatar: /assets/avatars/chenyulu_1.jpg
-  cdnavatar: https://ooo.0x0.ooo/2025/07/28/OY2d31.jpg
-  category: RA
 - name: Chenyu Gong
   avatar: /assets/avatars/chenyugong_1.jpg
   cdnavatar: https://ooo.0x0.ooo/2025/07/28/OY2cGG.jpg
@@ -34,7 +30,15 @@
   avatar: /assets/avatars/junyili_1.jpg
   cdnavatar: https://ooo.0x0.ooo/2025/07/28/OY2Sor.jpg
   category: PhD
-- name: Yanzhi Jin
-  avatar: /assets/avatars/yanzhijin_1.jpg
-  cdnavatar: https://ooo.0x0.ooo/2025/07/28/OY2YtD.jpg
-  category: RA
+- name: Chenyu Lu
+  avatar: /assets/avatars/chenyulu_1.jpg
+  cdnavatar: https://ooo.0x0.ooo/2025/07/28/OY2d31.jpg
+  category: PhD
+- name: Feiye Ye
+  avatar: /assets/avatars/feiyeye.jpg
+  cdnavatar: null
+  category: PhD
+# - name: Yanzhi Jin
+#   avatar: /assets/avatars/yanzhijin_1.jpg
+#   cdnavatar: https://ooo.0x0.ooo/2025/07/28/OY2YtD.jpg
+#   category: RA
