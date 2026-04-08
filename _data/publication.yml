@@ -34,6 +34,7 @@
   description: "IEEE International Conference on Computer Communications (INFOCOM), 2025. <span style=\"color:#3a5581; font-weight:bold;\">(Acceptance rate 18.7%, CCF A)</span>"
   type: conference
   links:
+    paper: "https://ieeexplore.ieee.org/document/11044760"
 
 - title: "Trading Continuous Queries"
   authors: "J. Cheng, **N. Ding**, J. C.S. Lui, and J. Huang"
