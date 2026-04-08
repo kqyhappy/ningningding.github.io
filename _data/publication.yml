@@ -15,6 +15,7 @@
   description: "AAAI Conference on Artificial Intelligence (AAAI), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(Acceptance rate 17.6%, CCF A)</span>"
   type: conference
   links:
+    paper: "https://arxiv.org/pdf/2508.09866"
 
 - title: "Beyond Binary Erasure: Soft-Weighted Unlearning to Improve Fairness and Robustness"
   authors: "X. Qiao, **N. Ding**, Y. Cheng, and M. Zhang"
