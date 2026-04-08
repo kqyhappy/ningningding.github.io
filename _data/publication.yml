@@ -43,6 +43,7 @@
   description: "IEEE Transactions on Mobile Computing (TMC), 2025. <span style=\"color:#3a5581; font-weight:bold;\">(CCF A, JCR Q1)</span>" 
   type: journal
   links:
+    paper: "https://ieeexplore.ieee.org/abstract/document/11217346"
   
 - title: "COTRA: A Data Trading Framework for Multi-source Data Cooperation"
   authors: "J. Cheng, **N. Ding**, J. C.S. Lui, and J. Huang"
