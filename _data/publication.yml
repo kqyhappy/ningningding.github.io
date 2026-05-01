@@ -1,6 +1,12 @@
+- title: "Learning to Route LLMs from Implicit Cost-Performance Preferences via Meta-Learning"
+  authors: "J. Zeng, M. Tang, and **N. Ding***"
+  description: "International Joint Conference on Artificial Intelligence (IJCAI), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(CCF B)</span>"
+  type: conference
+  links:
+
 - title: "CiPO: Counterfactual Unlearning for Large Reasoning Models through Iterative Preference Optimization"
   authors: "J. Li, Y. Chen, and **N. Ding***"
-  description: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(CCF A)</span>"
+  description: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026. <span style=\"color:#3a5581; font-weight:bold;\">(Acceptance rate 19%, CCF A)</span>"
   type: conference
   links:
 
